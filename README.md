@@ -15,13 +15,3 @@ Commit 12 – Content update
 Commit 13 – Regular activity
 Commit 14 – Small edit
 Commit 15 – Midway progress
-Commit 16 – Ongoing update
-Commit 17 – Consistency check
-Commit 18 – Minor improvement
-Commit 19 – Near completion 
-Commit 20 – Stable progress
-Commit 21 – Final phase
-Commit 22 – Almost done
-Commit 23 – Last updates
-Commit 24 – Pre-completion
-Commit 25 – Task completed
